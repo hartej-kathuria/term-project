@@ -37,5 +37,5 @@ print(number)
 total=0
 for i in range(0,len(number)):
 	total=total+number[i]
-print(total)
+assert(total==200)
 print(len(number))
