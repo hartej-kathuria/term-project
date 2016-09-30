@@ -21,7 +21,7 @@ def creating_database(csvfile):
 					})
 				i=i+1
 
-def displaydata():
+def collectdata():
 #counting websites in each category
 	client2=MongoClient()
 	db2=client2.testdb
@@ -53,6 +53,10 @@ def displaydata():
 		number_percn.append(np.around(number[i]/total,5))
 	df2=pd.DataFrame(number_percn,columns=['Ratio out of total 200'],index=["Search Engine","News","Art","Social","E-Commerce","Banking","Computer","Government","Service Provider","Buissness","Adult","Job Search Engine","Ads","Education","Cloud Computing","Travel"])
 	#print(df2)
+	return number
+
+def displaydata():#displaying the obatined data in barchart
+	number=collectdata()
 	labels=["Search Engine","News","Art","Social","E-Commerce","Banking","Computer","Government","Service Provider","Buissness","Adult","Job Search Engine","Ads","Education","Cloud Computing","Travel"]
 	labels_num=range(1,17)
 	width=1
@@ -64,9 +68,11 @@ def displaydata():
 	plt.xlabel('Website count')
 	plt.ylabel('Category')
 	plt.show()
-	#plt.savefig('Website_category_barchart.png')
+	plt.savefig('Website_category_barchart.png')
 
 
 if __name__=='__main__':
 	#creating_database('Websites_category.csv')
-	displaydata()
+	#displaydata()
+	#display=collectdata()
+	#print(display)
