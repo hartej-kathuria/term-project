@@ -1,5 +1,9 @@
+from __future__ import division
 import csv
 from pymongo import MongoClient
+import pandas as pd
+import numpy as np
+
 
 client=MongoClient()
 db=client.testdb
@@ -39,3 +43,14 @@ for i in range(0,len(number)):
 	total=total+number[i]
 assert(total==200)
 print(len(number))
+df=pd.DataFrame(number,columns=['Website count'],index=["Search Engine","News","Art","Social","E-Commerce","Banking","Computer","Government","Service Provider","Buissness","Adult","Job Search Engine","Ads","Education","Cloud Computing","Travel"])
+print(df)
+print(number[0]/200)
+number_percn=[]
+for i in range(0,16):
+	number_percn.append(np.around(number[i]/total,5))
+
+#print(number_percn)
+
+df2=pd.DataFrame(number_percn,columns=['Ratio out of total 200'],index=["Search Engine","News","Art","Social","E-Commerce","Banking","Computer","Government","Service Provider","Buissness","Adult","Job Search Engine","Ads","Education","Cloud Computing","Travel"])
+print(df2)
