@@ -67,12 +67,14 @@ def displaydata():#displaying the obatined data in barchart
 	plt.yticks(labels_num,labels)
 	plt.xlabel('Website count')
 	plt.ylabel('Category')
+	for i, v in enumerate(number):
+	    plt.text(v + 0.4, i + .75, str(v), color='black', fontweight='bold')
 	plt.show()
-	plt.savefig('Website_category_barchart.png')
+	#plt.savefig('Website_category_barchart.png')
 
 
 if __name__=='__main__':
 	#creating_database('Websites_category.csv')
-	#displaydata()
+	displaydata()
 	#display=collectdata()
 	#print(display)
