@@ -1,0 +1,73 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Wikipedia.org.
+Website Background
+Description on Homepage
+Description from Alexa
+Online since
+Popularity rank
+Mainvisitorslocations
+Content Management System
+MediaWiki is an open source wiki-style content management system written in PHP, originally developed for Wikipedia by Lee Daniel Crocker.
+MediaWiki 1.28.0(0% of sites use a newer version)
+Server-side Programming Language
+PHP is a popular scripting language for creating web pages.
+PHP 
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Persistent cookies with an expiration time between 1 month and 1 year.
+Cookies expiring in months 
+HttpOnly cookies are used only in the HTTP protocol and not in client side scripts, which may increase security.
+HttpOnly Cookies 
+Secure cookies are used only via an encrypted connections, which may increase security.
+Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+A strong ETag is an HTTP header field for validation of cached web pages, that indicates a byte-for-byte identical page in the cache.
+Strong ETag 
+The Internet Protocol version 6 (IPv6) provides amongst others a vastly larger address space than the preceding version 4. We consider a website to support IPv6 if a 128-bit address is assigned to it, regardless of the content delivered at that address.
+IPv6 
+HTTP/2 is the second major version of the HTTP network protocol.
+HTTP/2 
+HTTP Strict Transport Security (HSTS) defines a mechanism enabling web sites to declare themselves accessible only via secure connections.
+HTTP Strict Transport Security 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies (used until recently)
+SPDY (pronounced speedy) is a web protocol developed by Google, the basis for HTTP/2.
+SPDY (used until recently)
+SSL Certificate Authority
+GlobalSign is an IT security service provider, also operating as SSL certificate authority.
+GlobalSign 
+Web Server
+Nginx (pronounced as "engine X") is a lightweight open source web server developed by Igor Sysoev.
+Nginx 1.9.4(used until recently)
+Web Hosting Provider
+The Wikimedia Foundation is a non-profit organization that operates Wikipedia and other wikis, based in USA.
+Wikimedia hosting info based on data from ipinfo.io
+Top Level Domain
+Non-profit organizations
+.org 
+Server Locations
+United States Netherlands 
+Content Languages
+English Russian Japanese German Spanish French Portuguese Italian Chinese Polish Turkish Persian Dutch, Flemish Korean Czech Arabic Vietnamese Indonesian Swedish Greek Romanian Hungarian Danish Thai Slovak Finnish Bulgarian Hebrew Lithuanian Croatian Ukrainian Norwegian Bokml Serbian Catalan, Valencian Slovenian Latvian Estonian Hindi Azerbaijani Malay Bosnian Bengali Icelandic Macedonian Georgian Albanian Basque Galician Tamil Norwegian Nynorsk Urdu Afrikaans Belarusian Breton Swahili Marathi Telugu Malayalam Kurdish Welsh Irish Luxembourgish, Letzeburgesch Esperanto Gujarati Tagalog Latin Javanese Haitian, Haitian Creole Asturian, Bable, Leonese, Asturleonese Occitan, Provenal Aragonese Sundanese Western Frisian Quechua Cebuano Chuvash Ido Low German, Low Saxon Sicilian Volapk Walloon Neapolitan Nepal Bhasa, Newari 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

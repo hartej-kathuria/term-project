@@ -1,0 +1,66 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Blogger.com.
+Website Background
+Description on Homepage
+Description from Alexa
+Online since
+Popularity rank
+Mainvisitorslocations
+Website Quality Alerts
+Title declaration before character encoding declaration
+
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Format
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+The Internet Protocol version 6 (IPv6) provides amongst others a vastly larger address space than the preceding version 4. We consider a website to support IPv6 if a 128-bit address is assigned to it, regardless of the content delivered at that address.
+IPv6 
+SPDY (pronounced speedy) is a web protocol developed by Google, the basis for HTTP/2.
+SPDY 
+HTTP/2 is the second major version of the HTTP network protocol.
+HTTP/2 
+SSL Certificate Authority
+GeoTrust is a SSL certificate authority owned by Symantec. This includes SSL certificates issues by the certification branch of Equifax, which was acquired by GeoTrust.
+GeoTrust 
+JavaScript Content Delivery Network
+Google Hosted Libraries (formerly called Google Libraries API) is a content distribution network for the most popular, open-source JavaScript libraries, provided by Google.
+Google Hosted Libraries 
+Traffic Analysis Tool
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics 
+Web Server
+Google develops a range of web servers for their web infrastructure.
+Google Servers 
+Web Hosting Providers
+Google provides various services to run on its servers.
+Google 
+Deutsche Telekom is a German telecommunications company.
+Deutsche Telekom 
+Level 3 Communications is a multinational telecommunications and Internet service provider headquartered in USA.
+Level 3 (used until recently)hosting info based on data from ipinfo.io
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States Germany Azerbaijan Italy (used until recently)
+Content Languages
+English Russian Japanese German Spanish French Portuguese Italian Chinese Polish Turkish Persian Dutch, Flemish Korean Czech Arabic Vietnamese Swedish Greek Romanian Hungarian Danish Thai Slovak Finnish Bulgarian Hebrew Norwegian Lithuanian Croatian Ukrainian Serbian Catalan, Valencian Slovenian Latvian Hindi Malay Bengali Tamil Filipino, Pilipino Marathi Telugu Malayalam Kannada Gujarati Oriya 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

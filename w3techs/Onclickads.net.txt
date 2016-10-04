@@ -1,0 +1,53 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Onclickads.net.
+Website Background
+Description on Homepage
+Popularity rank
+Mainvisitorslocations
+Website Quality Alerts
+No title declaration
+
+Server-side Programming Language
+PHP is a popular scripting language for creating web pages.
+PHP 5.6.20(13% of sites use a newer version)
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+Persistent cookies with an expiration time of up to 1 day.
+Cookies expiring in hours (used until recently)
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies (used until recently)
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies (used until recently)
+SSL Certificate Authority
+GeoTrust is a SSL certificate authority owned by Symantec. This includes SSL certificates issues by the certification branch of Equifax, which was acquired by GeoTrust.
+GeoTrust 
+Advertising Network
+The Google Advertising network consists of AdSense, DoubleClick and other services.
+Google Ads 
+Web Server
+Nginx (pronounced as "engine X") is a lightweight open source web server developed by Igor Sysoev.
+Nginx 
+Web Hosting Provider
+Webzilla is a web hosting provider owned by XBT Holding.
+Webzilla hosting info based on data from ipinfo.io, see details
+Top Level Domain
+Network providers
+.net 
+Server Location
+Netherlands 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

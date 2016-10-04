@@ -1,0 +1,78 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Microsoft.com.
+Website Background
+Description on Homepage
+Description from Alexa
+Online since
+Popularity rank
+Mainvisitorslocations
+Server-side Programming Language
+Microsoft's Active Server Pages technology on the .NET framework.
+ASP.NET 4.0.30319(0% of sites use a newer version)
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Library
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery 1.7.2(74% of sites use a newer version)
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Persistent cookies with an expiration time of up to 1 day.
+Cookies expiring in hours 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+The Internet Protocol version 6 (IPv6) provides amongst others a vastly larger address space than the preceding version 4. We consider a website to support IPv6 if a 128-bit address is assigned to it, regardless of the content delivered at that address.
+IPv6 
+SSL Certificate Authority
+Verizon is an IT service provider, also operating as SSL certificate authority, primarily via its acquisition
+of Cybertrust.
+Verizon 
+JavaScript Content Delivery Network
+The Microsoft Ajax Content Delivery Network hosts popular third party JavaScript libraries, provided by Microsoft.
+Microsoft Ajax CDN 
+Traffic Analysis Tool
+Webtrends Analytics is a web traffic analytics tool, provided by Webtrends.
+Webtrends (used until recently)
+Web Server
+The Internet Information Services (IIS) are a set of Internet-based services for Windows, developed by Microsoft.
+Microsoft-IIS 8.0(version 8.5 used until recently)(26% of sites use a newer version)
+Operating System
+Windows is a popular operating system produced by Microsoft.
+Windows 
+Web Hosting Providers
+Microsoft is a multinational technology company headquartered in USA.
+Microsoft 
+China Unicom, formerly also China Netcom, is a Chinese telecom operator, also offering web hosting services.
+China Unicom hosting info based on data from ipinfo.io
+Reverse Proxy Service
+Akamai is a content delivery network.
+Akamai 
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States Netherlands China Brazil Ireland (used until recently)
+Content Languages
+English Russian Japanese German Spanish French Portuguese Italian Chinese Polish Turkish Dutch, Flemish Korean Czech Arabic Vietnamese Indonesian Swedish Greek Romanian Hungarian Danish Thai Slovak Finnish Bulgarian Hebrew Lithuanian Croatian Ukrainian Norwegian Bokml Serbian Slovenian Latvian Estonian Bosnian Icelandic 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

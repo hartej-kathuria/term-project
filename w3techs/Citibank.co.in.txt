@@ -1,0 +1,62 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Citibank.co.in.
+Website Background
+Description on Homepage
+Popularity rank
+Mainvisitorslocations
+Server-side Programming Language
+Java is a general-purpose language originally developed by Sun Microsystems.
+Java 
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Library
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery 1.8.3(64% of sites use a newer version)
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+GIF (Graphics Interchange Format) is a lossless compression image format, originally introduced by CompuServe and suitable to store graphics, logos and simple animations.
+GIF 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+A weak ETag is an HTTP header field for validation of cached web pages, that indicates a semantically equivalent page in the cache.
+Weak ETag 
+The Internet Protocol version 6 (IPv6) provides amongst others a vastly larger address space than the preceding version 4. We consider a website to support IPv6 if a 128-bit address is assigned to it, regardless of the content delivered at that address.
+IPv6 
+SSL Certificate Authority
+Verisign is an SSL certificate authority owned by Symantec.
+Verisign 
+Advertising Network
+The Google Advertising network consists of AdSense, DoubleClick and other services.
+Google Ads 
+Tag Manager
+The Google Tag Manager is a Google service to support webmasters to manage tags on their websites.
+Google Tag Manager 
+Reverse Proxy Service
+Akamai is a content delivery network.
+Akamai hosting info based on data from ipinfo.io
+Top Level Domain
+India
+.in 
+Server Locations
+United States Japan Netherlands 
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

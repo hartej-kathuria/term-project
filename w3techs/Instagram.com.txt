@@ -1,0 +1,63 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Instagram.com.
+Website Background
+Description on Homepage
+Popularity rank
+Mainvisitorslocations
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Site Elements
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Session cookies are temporary cookies, which are deleted when the user closes the browser.
+Session Cookies 
+Persistent cookies with an expiration time between 1 month and 1 year.
+Cookies expiring in months 
+Persistent cookies with an expiration time of more than 10 years.
+Cookies expiring in decades 
+HttpOnly cookies are used only in the HTTP protocol and not in client side scripts, which may increase security.
+HttpOnly Cookies 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Secure cookies are used only via an encrypted connections, which may increase security.
+Secure Cookies 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+The Internet Protocol version 6 (IPv6) provides amongst others a vastly larger address space than the preceding version 4. We consider a website to support IPv6 if a 128-bit address is assigned to it, regardless of the content delivered at that address.
+IPv6 
+HTTP/2 is the second major version of the HTTP network protocol.
+HTTP/2 
+HTTP Strict Transport Security (HSTS) defines a mechanism enabling web sites to declare themselves accessible only via secure connections.
+HTTP Strict Transport Security 
+SSL Certificate Authority
+DigiCert is an SSL certificate authority.
+DigiCert 
+Web Hosting Providers
+Amazon is a US-based e-commerce and cloud computing provider.
+Amazon 
+Level 3 Communications is a multinational telecommunications and Internet service provider headquartered in USA.
+Level 3 
+Facebook is a US-based social network.
+Facebook 
+Google provides various services to run on its servers.
+Google (used until recently)
+The DoD Network Information Center is an IT support organization of the US Department of Defense.
+DoD Network Information Center (used until recently)hosting info based on data from ipinfo.io
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States Ireland New Zealand Italy (used until recently)Azerbaijan (used until recently)
+Content Languages
+English Russian Japanese German Spanish French Portuguese Italian Chinese Polish Turkish Dutch, Flemish Korean Czech Indonesian Swedish Greek Danish Thai Finnish Norwegian Hindi Malay Afrikaans Tagalog 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

@@ -1,0 +1,78 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Ndtv.com.
+Website Background
+Description on Homepage
+Online since
+Popularity rank
+Mainvisitorslocations
+Server-side Programming Language
+Microsoft's Active Server Pages technology on the .NET framework.
+ASP.NET 
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Library
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery 
+Markup Language
+Transitional version of XHTML.
+XHTML Transitional 1.0
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+GIF (Graphics Interchange Format) is a lossless compression image format, originally introduced by CompuServe and suitable to store graphics, logos and simple animations.
+GIF (used until recently)
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+A strong ETag is an HTTP header field for validation of cached web pages, that indicates a byte-for-byte identical page in the cache.
+Strong ETag 
+SSL Certificate Authority
+The SSL certificate is invalid because it is not issued for the domain where it is used.
+Invalid Domain 
+Social Widgets
+Facebook Social Plugins provide a way for Facebook users to share web pages with their friends.
+Facebook 
+A Twitter Button allows a Twitter user to post a tweet from the visited site.
+Twitter 
+Traffic Analysis Tools
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics 
+Full Circle Studies collects information about general website visitation patterns as part of the ComScore market research.
+Full Circle Studies 
+Lotame Crowd Control is an analytics package to measure social media behavior for publishers and advertisers.
+Lotame 
+Advertising Networks
+The Google Advertising network consists of AdSense, DoubleClick and other services.
+Google Ads 
+Zedo is an advertising network and ad network optimization service.
+Zedo (used until recently)
+Web Server
+The Apache HTTP Server is a popular open source web server by the Apache Software Foundation.
+Apache 
+Web Hosting Provider
+Amazon is a US-based e-commerce and cloud computing provider.
+Amazon hosting info based on data from ipinfo.io
+Reverse Proxy Service
+Akamai is a content delivery network.
+Akamai 
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States Netherlands (used until recently)Austria (used until recently)
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

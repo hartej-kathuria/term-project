@@ -1,0 +1,38 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Secureserver.net.
+Website Background
+Description on Homepage
+Online since
+Popularity rank
+Website Quality Alerts
+Homepage not found
+
+Server-side Programming Language
+Microsoft's Active Server Pages technology on the .NET framework.
+ASP.NET 
+Site Elements
+Session cookies are temporary cookies, which are deleted when the user closes the browser.
+Session Cookies 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies 
+SSL Certificate Authority
+Starfield Technologies is an SSL certificate authority owned by Go Daddy.
+Starfield 
+Web Server
+The Internet Information Services (IIS) are a set of Internet-based services for Windows, developed by Microsoft.
+Microsoft-IIS 7.0(79% of sites use a newer version)
+Operating System
+Windows is a popular operating system produced by Microsoft.
+Windows 
+Web Hosting Provider
+GoDaddy provides web hosting services.
+GoDaddy hosting info based on data from ipinfo.io, see details
+Top Level Domain
+Network providers
+.net 
+Server Location
+United States 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

@@ -1,0 +1,70 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Reddit.com.
+Website Background
+Description on Homepage
+Description from Alexa
+Online since
+Popularity rank
+Mainvisitorslocations
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+Scalable Vector Graphics (SVG) is an XML-based vector image format.
+SVG 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Persistent cookies with an expiration time between 1 and 10 years.
+Cookies expiring in years 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Secure cookies are used only via an encrypted connections, which may increase security.
+Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+HTTP Strict Transport Security (HSTS) defines a mechanism enabling web sites to declare themselves accessible only via secure connections.
+HTTP Strict Transport Security 
+SPDY (pronounced speedy) is a web protocol developed by Google, the basis for HTTP/2.
+SPDY (used until recently)
+SSL Certificate Authority
+DigiCert is an SSL certificate authority.
+DigiCert 
+Social Widget
+Reddit Buttons allow web pages to be submitted to and discussed on Reddit.
+Reddit 
+Traffic Analysis Tool
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics 
+Web Server
+Nginx (pronounced as "engine X") is a lightweight open source web server developed by Igor Sysoev.
+Nginx 
+Web Hosting Provider
+Amazon is a US-based e-commerce and cloud computing provider.
+Amazon hosting info based on data from ipinfo.io
+Reverse Proxy Service
+CloudFlare provides a content delivery network.
+CloudFlare 
+Top Level Domain
+Commercial entities
+.com 
+Server Location
+United States 
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

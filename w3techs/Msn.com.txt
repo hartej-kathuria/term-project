@@ -1,0 +1,74 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Msn.com.
+Website Background
+Description on Homepage
+Online since
+Popularity rank
+Mainvisitorslocations
+Server-side Programming Language
+Microsoft's Active Server Pages technology on the .NET framework.
+ASP.NET 
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Library
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery 2.1.1(4% of sites use a newer version)
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Format
+GIF (Graphics Interchange Format) is a lossless compression image format, originally introduced by CompuServe and suitable to store graphics, logos and simple animations.
+GIF 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Session cookies are temporary cookies, which are deleted when the user closes the browser.
+Session Cookies 
+Persistent cookies with an expiration time between 1 day and 1 month.
+Cookies expiring in days 
+Persistent cookies with an expiration time between 1 and 10 years.
+Cookies expiring in years 
+HttpOnly cookies are used only in the HTTP protocol and not in client side scripts, which may increase security.
+HttpOnly Cookies 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+SSL Certificate Authority
+Verizon is an IT service provider, also operating as SSL certificate authority, primarily via its acquisition
+of Cybertrust.
+Verizon 
+Traffic Analysis Tools
+Full Circle Studies collects information about general website visitation patterns as part of the ComScore market research.
+Full Circle Studies 
+Chartbeat is a real-time web analytics tool by Betaworks.
+Chartbeat 
+Advertising Network
+Tradedoubler is an affiliate and advertising network.
+Tradedoubler 
+Web Server
+The Internet Information Services (IIS) are a set of Internet-based services for Windows, developed by Microsoft.
+Microsoft-IIS 8.5(0% of sites use a newer version)
+Operating System
+Windows is a popular operating system produced by Microsoft.
+Windows 
+Web Hosting Provider
+Microsoft is a multinational technology company headquartered in USA.
+Microsoft hosting info based on data from ipinfo.io
+Top Level Domain
+Commercial entities
+.com 
+Server Location
+United States 
+Content Languages
+English Russian Japanese German Spanish French Portuguese Italian Chinese Polish Turkish Dutch, Flemish Korean Czech Swedish Greek Hungarian Danish Thai Finnish Hebrew Norwegian Slovenian 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

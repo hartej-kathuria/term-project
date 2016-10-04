@@ -1,0 +1,91 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Yahoo.com.
+Website Background
+Description on Homepage
+Online since
+Popularity rank
+Mainvisitorslocations
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Libraries
+The Yahoo! User Interface (YUI) Library is a JavaScript library developed by Yahoo.
+YUI Library 
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery (used until recently)
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+GIF (Graphics Interchange Format) is a lossless compression image format, originally introduced by CompuServe and suitable to store graphics, logos and simple animations.
+GIF 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Session cookies are temporary cookies, which are deleted when the user closes the browser.
+Session Cookies 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+The Internet Protocol version 6 (IPv6) provides amongst others a vastly larger address space than the preceding version 4. We consider a website to support IPv6 if a 128-bit address is assigned to it, regardless of the content delivered at that address.
+IPv6 
+SPDY (pronounced speedy) is a web protocol developed by Google, the basis for HTTP/2.
+SPDY 
+HTTP/2 is the second major version of the HTTP network protocol.
+HTTP/2 
+HTTP Strict Transport Security (HSTS) defines a mechanism enabling web sites to declare themselves accessible only via secure connections.
+HTTP Strict Transport Security 
+Persistent cookies with an expiration time between 1 and 10 years.
+Cookies expiring in years (used until recently)
+SSL Certificate Authority
+Verisign is an SSL certificate authority owned by Symantec.
+Verisign 
+Traffic Analysis Tools
+Full Circle Studies collects information about general website visitation patterns as part of the ComScore market research.
+Full Circle Studies 
+Etracker offers real-time webanalytics services.
+Etracker 
+Yahoo! Web Analytics is a free web analytics solution by Yahoo.
+Yahoo! Web Analytics 
+Chartbeat is a real-time web analytics tool by Betaworks.
+Chartbeat (used until recently)
+Advertising Networks
+The Google Advertising network consists of AdSense, DoubleClick and other services.
+Google Ads 
+Amazon Associates is the affiliate program of Amazon.
+Amazon Associates 
+The eBay Partner Network is the affiliate program of eBay.
+eBay Partner Network 
+Yahoo Advertising offers a range of advertising solutions, including Right Media.
+Yahoo Advertising (used until recently)
+Microsoft Advertising is an advertising platform by Microsoft, formerly called Aquantive and also including Atlas Solutions.
+Microsoft Advertising (used until recently)
+Web Server
+The Apache Traffic Server is a caching proxy server derived from the Yahoo Traffic Server.
+Apache Traffic Server 
+Web Hosting Provider
+Yahoo operates several web portals and related services world-wide.
+Yahoo hosting info based on data from ipinfo.io
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States United Kingdom Ireland Taiwan (used until recently)
+Content Languages
+English German Spanish French Portuguese Italian Chinese Dutch, Flemish Arabic Vietnamese Indonesian Swedish Greek Romanian 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

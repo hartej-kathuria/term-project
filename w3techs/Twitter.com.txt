@@ -1,0 +1,78 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Twitter.com.
+Website Background
+Description on Homepage
+Online since
+Popularity rank
+Mainvisitorslocations
+Content Management System
+Drupal is an open source content management system written in PHP, originally developed by Dries Buytaert.
+Drupal 
+Server-side Programming Language
+PHP is a popular scripting language for creating web pages.
+PHP 
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Languages
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Mobile version of XHTML, meant to support mobile handsets.
+XHTML Mobile Profile 1.1
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+GIF (Graphics Interchange Format) is a lossless compression image format, originally introduced by CompuServe and suitable to store graphics, logos and simple animations.
+GIF 
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG (used until recently)
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Session cookies are temporary cookies, which are deleted when the user closes the browser.
+Session Cookies 
+Persistent cookies with an expiration time between 1 day and 1 month.
+Cookies expiring in days 
+Persistent cookies with an expiration time between 1 month and 1 year.
+Cookies expiring in months 
+HttpOnly cookies are used only in the HTTP protocol and not in client side scripts, which may increase security.
+HttpOnly Cookies 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Secure cookies are used only via an encrypted connections, which may increase security.
+Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+SPDY (pronounced speedy) is a web protocol developed by Google, the basis for HTTP/2.
+SPDY 
+HTTP/2 is the second major version of the HTTP network protocol.
+HTTP/2 
+HTTP Strict Transport Security (HSTS) defines a mechanism enabling web sites to declare themselves accessible only via secure connections.
+HTTP Strict Transport Security 
+Persistent cookies with an expiration time of up to 1 day.
+Cookies expiring in hours (used until recently)
+SSL Certificate Authorities
+Verisign is an SSL certificate authority owned by Symantec.
+Verisign 
+DigiCert is an SSL certificate authority.
+DigiCert (used until recently)
+Social Widget
+A Twitter Button allows a Twitter user to post a tweet from the visited site.
+Twitter 
+Web Hosting Provider
+Twitter is a US-based micro-blogging service.
+Twitter hosting info based on data from ipinfo.io
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States Italy Azerbaijan (used until recently)
+Content Languages
+English Russian Japanese German Spanish French Portuguese Italian Chinese Polish Turkish Persian Dutch, Flemish Korean Arabic Indonesian Swedish Hungarian Danish Thai Finnish Hebrew Norwegian Hindi Malay Urdu Filipino, Pilipino 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

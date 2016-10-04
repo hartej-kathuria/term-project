@@ -1,0 +1,59 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Sifyitest.com.
+Website Background
+Description on Homepage
+Popularity rank
+Mainvisitorslocations
+Server-side Programming Language
+PHP is a popular scripting language for creating web pages.
+PHP 5.4.43(53% of sites use a newer version)
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Libraries
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery 
+Bootstrap is an open source HTML, CSS, and JavaScript framework.
+Bootstrap 
+Markup Language
+Transitional version of HTML.
+HTML Transitional 4.0
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Format
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+SSL Certificate Authority
+GeoTrust is a SSL certificate authority owned by Symantec. This includes SSL certificates issues by the certification branch of Equifax, which was acquired by GeoTrust.
+GeoTrust 
+Traffic Analysis Tools
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics 
+Full Circle Studies collects information about general website visitation patterns as part of the ComScore market research.
+Full Circle Studies 
+Advertising Network
+The Google Advertising network consists of AdSense, DoubleClick and other services.
+Google Ads 
+Web Server
+The Apache HTTP Server is a popular open source web server by the Apache Software Foundation.
+Apache 2.2.22(54% of sites use a newer version)
+Operating System
+Unix is a range of operating systems originally developed at Bell Labs. This contains Unix and Unix-like systems, such as Linux.
+Unix 
+Top Level Domain
+Commercial entities
+.com 
+Server Location
+India 
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

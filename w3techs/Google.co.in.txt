@@ -1,0 +1,62 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Google.co.in.
+Website Background
+Description on Homepage
+Description from Alexa
+Popularity rank
+Mainvisitorslocations
+Client-side Programming Languages
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Adobe Flash (by Adobe Systems, formerly Shockwave Flash and Macromedia Flash) is a multimedia platform for adding animation and interactivity to web pages.
+Flash 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG (used until recently)
+Site Elements
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Persistent cookies with an expiration time between 1 month and 1 year.
+Cookies expiring in months 
+HttpOnly cookies are used only in the HTTP protocol and not in client side scripts, which may increase security.
+HttpOnly Cookies 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+The Internet Protocol version 6 (IPv6) provides amongst others a vastly larger address space than the preceding version 4. We consider a website to support IPv6 if a 128-bit address is assigned to it, regardless of the content delivered at that address.
+IPv6 
+SPDY (pronounced speedy) is a web protocol developed by Google, the basis for HTTP/2.
+SPDY 
+HTTP/2 is the second major version of the HTTP network protocol.
+HTTP/2 
+SSL Certificate Authority
+GeoTrust is a SSL certificate authority owned by Symantec. This includes SSL certificates issues by the certification branch of Equifax, which was acquired by GeoTrust.
+GeoTrust 
+Web Server
+Google develops a range of web servers for their web infrastructure.
+Google Servers 
+Web Hosting Providers
+Google provides various services to run on its servers.
+Google 
+The DoD Network Information Center is an IT support organization of the US Department of Defense.
+DoD Network Information Center (used until recently)hosting info based on data from ipinfo.io
+Top Level Domain
+India
+.in 
+Server Locations
+United States Italy New Zealand Azerbaijan (used until recently)
+Content Languages
+English Hindi Bengali Tamil Marathi Telugu Malayalam Kannada Panjabi, Punjabi Gujarati 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

@@ -1,0 +1,90 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Pinterest.com.
+Website Background
+Description on Homepage
+Description from Alexa
+Popularity rank
+Mainvisitorslocations
+Content Management System
+Drupal is an open source content management system written in PHP, originally developed by Dries Buytaert.
+Drupal 7(1% of sites use a newer version)
+Server-side Programming Language
+PHP is a popular scripting language for creating web pages.
+PHP 
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Libraries
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery 
+Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the visitors browser.
+Modernizr 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Persistent cookies with an expiration time between 1 month and 1 year.
+Cookies expiring in months 
+HttpOnly cookies are used only in the HTTP protocol and not in client side scripts, which may increase security.
+HttpOnly Cookies 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Secure cookies are used only via an encrypted connections, which may increase security.
+Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+A strong ETag is an HTTP header field for validation of cached web pages, that indicates a byte-for-byte identical page in the cache.
+Strong ETag 
+HTTP Strict Transport Security (HSTS) defines a mechanism enabling web sites to declare themselves accessible only via secure connections.
+HTTP Strict Transport Security 
+SSL Certificate Authority
+DigiCert is an SSL certificate authority.
+DigiCert 
+Social Widgets
+Facebook Social Plugins provide a way for Facebook users to share web pages with their friends.
+Facebook 
+A Twitter Button allows a Twitter user to post a tweet from the visited site.
+Twitter 
+The Pinterest Pin-It button allows website visitors to pin images onto Pinterest.
+Pinterest 
+Reddit Buttons allow web pages to be submitted to and discussed on Reddit.
+Reddit 
+Traffic Analysis Tool
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics 
+Web Server
+Nginx (pronounced as "engine X") is a lightweight open source web server developed by Igor Sysoev.
+Nginx 
+Web Hosting Provider
+Amazon is a US-based e-commerce and cloud computing provider.
+Amazon (used until recently)hosting info based on data from ipinfo.io
+Reverse Proxy Services
+Akamai is a content delivery network.
+Akamai 
+Fastly is a content delivery network.
+Fastly 
+CloudFlare provides a content delivery network.
+CloudFlare (used until recently)
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States Netherlands 
+Content Languages
+English German Spanish French Portuguese Italian Dutch, Flemish 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

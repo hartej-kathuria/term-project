@@ -1,0 +1,39 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Disqus.com.
+Website Background
+Description on Homepage
+Description from Alexa
+Popularity rank
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Site Element
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+SSL Certificate Authority
+DigiCert is an SSL certificate authority.
+DigiCert 
+Traffic Analysis Tool
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics 
+Web Server
+Nginx (pronounced as "engine X") is a lightweight open source web server developed by Igor Sysoev.
+Nginx 
+Reverse Proxy Service
+Fastly is a content delivery network.
+Fastly hosting info based on data from ipinfo.io
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States Italy 
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

@@ -1,0 +1,41 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Billdesk.com.
+Website Background
+Description on Homepage
+Description from Alexa
+Online since
+Popularity rank
+Mainvisitorslocations
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Language
+Transitional version of HTML.
+HTML Transitional 4.0
+Character Encoding
+Windows-1252 is an 8-bit character encoding, designed to cover West European alphabets.
+Windows-1252 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+GIF (Graphics Interchange Format) is a lossless compression image format, originally introduced by CompuServe and suitable to store graphics, logos and simple animations.
+GIF 
+Site Elements
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+A strong ETag is an HTTP header field for validation of cached web pages, that indicates a byte-for-byte identical page in the cache.
+Strong ETag 
+SSL Certificate Authority
+Verisign is an SSL certificate authority owned by Symantec.
+Verisign 
+Top Level Domain
+Commercial entities
+.com 
+Server Location
+India 
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

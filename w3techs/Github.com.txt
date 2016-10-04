@@ -1,0 +1,56 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Github.com.
+Website Background
+Description on Homepage
+Description from Alexa
+Popularity rank
+Mainvisitorslocations
+Content Management System
+GitHub Pages is a web page creation and hosting service by GitHub.
+GitHub Pages 
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Format
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Session cookies are temporary cookies, which are deleted when the user closes the browser.
+Session Cookies 
+HttpOnly cookies are used only in the HTTP protocol and not in client side scripts, which may increase security.
+HttpOnly Cookies 
+Secure cookies are used only via an encrypted connections, which may increase security.
+Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+HTTP Strict Transport Security (HSTS) defines a mechanism enabling web sites to declare themselves accessible only via secure connections.
+HTTP Strict Transport Security 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies (used until recently)
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies (used until recently)
+SSL Certificate Authority
+DigiCert is an SSL certificate authority.
+DigiCert 
+Web Hosting Provider
+GitHub offers project repository hosting and also site hosting services.
+GitHub hosting info based on data from ipinfo.io, see details
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+Japan United States (used until recently)
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

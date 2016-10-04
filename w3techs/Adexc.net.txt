@@ -1,0 +1,48 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Adexc.net.
+Website Background
+Description on Homepage
+Popularity rank
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Libraries
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery 1.10.2(52% of sites use a newer version)
+Bootstrap is an open source HTML, CSS, and JavaScript framework.
+Bootstrap 
+Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the visitors browser.
+Modernizr 2.6.2(23% of sites use a newer version)
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+A weak ETag is an HTTP header field for validation of cached web pages, that indicates a semantically equivalent page in the cache.
+Weak ETag 
+Web Server
+Nginx (pronounced as "engine X") is a lightweight open source web server developed by Igor Sysoev.
+Nginx 1.8.0(60% of sites use a newer version)
+Web Hosting Provider
+Online.net is a French web hosting provider.
+Online.net hosting info based on data from ipinfo.io, see details
+Top Level Domain
+Network providers
+.net 
+Server Locations
+France United Kingdom (used until recently)
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

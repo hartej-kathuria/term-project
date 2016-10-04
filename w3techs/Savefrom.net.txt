@@ -1,0 +1,66 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Savefrom.net.
+Website Background
+Description on Homepage
+Popularity rank
+Mainvisitorslocations
+Server-side Programming Language
+PHP is a popular scripting language for creating web pages.
+PHP 5.3.29(62% of sites use a newer version)
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Libraries
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery 1.11.2(38% of sites use a newer version)
+Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the visitors browser.
+Modernizr 2.8.3(0% of sites use a newer version)
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Persistent cookies with an expiration time between 1 and 10 years.
+Cookies expiring in years 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+Persistent cookies with an expiration time between 1 day and 1 month.
+Cookies expiring in days (used until recently)
+SSL Certificate Authority
+Comodo provides IT services, software, and SSL certificates under various brand names.
+Comodo 
+JavaScript Content Delivery Network
+Google Hosted Libraries (formerly called Google Libraries API) is a content distribution network for the most popular, open-source JavaScript libraries, provided by Google.
+Google Hosted Libraries 
+Traffic Analysis Tools
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics 
+LiveInternet is a Russian web access counter service.
+LiveInternet 
+Web Server
+Nginx (pronounced as "engine X") is a lightweight open source web server developed by Igor Sysoev.
+Nginx 
+Top Level Domain
+Network providers
+.net 
+Server Location
+United Kingdom 
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

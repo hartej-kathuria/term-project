@@ -1,0 +1,75 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Olx.in.
+Website Background
+Description on Homepage
+Description from Alexa
+Popularity rank
+Mainvisitorslocations
+Server-side Programming Language
+PHP is a popular scripting language for creating web pages.
+PHP 
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Format
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Session cookies are temporary cookies, which are deleted when the user closes the browser.
+Session Cookies 
+HttpOnly cookies are used only in the HTTP protocol and not in client side scripts, which may increase security.
+HttpOnly Cookies 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Secure cookies are used only via an encrypted connections, which may increase security.
+Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+Persistent cookies with an expiration time between 1 and 10 years.
+Cookies expiring in years (used until recently)
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies (used until recently)
+SSL Certificate Authority
+Comodo provides IT services, software, and SSL certificates under various brand names.
+Comodo 
+Social Widget
+Facebook Social Plugins provide a way for Facebook users to share web pages with their friends.
+Facebook 
+Traffic Analysis Tools
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics 
+Full Circle Studies collects information about general website visitation patterns as part of the ComScore market research.
+Full Circle Studies 
+Advertising Network
+The Google Advertising network consists of AdSense, DoubleClick and other services.
+Google Ads 
+Tag Manager
+The Google Tag Manager is a Google service to support webmasters to manage tags on their websites.
+Google Tag Manager 
+Web Hosting Providers
+Amazon is a US-based e-commerce and cloud computing provider.
+Amazon 
+SoftLayer Technologies is a dedicated server, managed hosting and cloud computing provider owned by IBM.
+SoftLayer (used until recently)hosting info based on data from ipinfo.io
+Reverse Proxy Service
+Akamai is a content delivery network.
+Akamai 
+Top Level Domain
+India
+.in 
+Server Locations
+United States Netherlands Singapore (used until recently)
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

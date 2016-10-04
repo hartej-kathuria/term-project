@@ -1,0 +1,74 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Wordpress.org.
+Website Background
+Description on Homepage
+Description from Alexa
+Online since
+Popularity rank
+Mainvisitorslocations
+Content Management System
+WordPress is an open source blog publishing and content management system, based on PHP and MySQL.
+WordPress 4.7(version 4.6 used until recently)(0% of sites use a newer version)
+Server-side Programming Language
+PHP is a popular scripting language for creating web pages.
+PHP 
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Library
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery 1.12.4(6% of sites use a newer version)
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+GIF (Graphics Interchange Format) is a lossless compression image format, originally introduced by CompuServe and suitable to store graphics, logos and simple animations.
+GIF 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+HTTP/2 is the second major version of the HTTP network protocol.
+HTTP/2 
+HTTP Strict Transport Security (HSTS) defines a mechanism enabling web sites to declare themselves accessible only via secure connections.
+HTTP Strict Transport Security 
+SSL Certificate Authority
+GoDaddy is an IT service provider, amongst others operating as SSL certificate authority. This includes ValiCert certificates, now operated by Go Daddy.
+GoDaddy 
+Social Widget
+Facebook Social Plugins provide a way for Facebook users to share web pages with their friends.
+Facebook 
+Traffic Analysis Tools
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics 
+WordPress Stats is a visitor tracking plugin for the WordPress publishing platform.
+WordPress Stats 
+Quantcast provides visitor statistics of web sites.
+Quantcast 
+Web Server
+Nginx (pronounced as "engine X") is a lightweight open source web server developed by Igor Sysoev.
+Nginx 
+Web Hosting Provider
+Peer 1 Hosting provides Internet hosting services that include managed hosting, dedicated servers, collocation and cloud computing, owned by Cogeco. This includes its subsidiary ServerBeach and NetBenefit.
+Peer 1 hosting info based on data from ipinfo.io, see details
+Top Level Domain
+Non-profit organizations
+.org 
+Server Location
+United States 
+Content Languages
+English German Spanish French Italian 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

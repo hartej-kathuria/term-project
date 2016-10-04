@@ -1,0 +1,41 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Doubleclick.net.
+Website Background
+Description on Homepage
+Description from Alexa
+Online since
+Popularity rank
+Mainvisitorslocations
+Markup Language
+Strict version of HTML.
+HTML Strict 4.01
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Format
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+A strong ETag is an HTTP header field for validation of cached web pages, that indicates a byte-for-byte identical page in the cache.
+Strong ETag 
+SSL Certificate Authority
+The SSL certificate is invalid because it is not issued for the domain where it is used.
+Invalid Domain 
+Advertising Network
+The Google Advertising network consists of AdSense, DoubleClick and other services.
+Google Ads 
+Web Server
+The Apache HTTP Server is a popular open source web server by the Apache Software Foundation.
+Apache 
+Reverse Proxy Service
+Akamai is a content delivery network.
+Akamai hosting info based on data from ipinfo.io, see details
+Top Level Domain
+Network providers
+.net 
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

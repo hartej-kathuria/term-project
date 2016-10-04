@@ -1,0 +1,66 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Hotstar.com.
+Website Background
+Description on Homepage
+Online since
+Popularity rank
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Libraries
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery 
+Bootstrap is an open source HTML, CSS, and JavaScript framework.
+Bootstrap 
+AngularJS is a JavaScript library for building web applications, developed by Misko Hevery.
+AngularJS 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Session cookies are temporary cookies, which are deleted when the user closes the browser.
+Session Cookies 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+SSL Certificate Authorities
+GeoTrust is a SSL certificate authority owned by Symantec. This includes SSL certificates issues by the certification branch of Equifax, which was acquired by GeoTrust.
+GeoTrust 
+The SSL certificate is invalid because it is not issued for the domain where it is used.
+Invalid Domain (used until recently)
+Traffic Analysis Tools
+Full Circle Studies collects information about general website visitation patterns as part of the ComScore market research.
+Full Circle Studies 
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics (used until recently)
+Advertising Network
+The Google Advertising network consists of AdSense, DoubleClick and other services.
+Google Ads 
+Tag Manager
+The Google Tag Manager is a Google service to support webmasters to manage tags on their websites.
+Google Tag Manager 
+Web Hosting Provider
+Amazon is a US-based e-commerce and cloud computing provider.
+Amazon hosting info based on data from ipinfo.io
+Reverse Proxy Service
+Akamai is a content delivery network.
+Akamai 
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States Netherlands Singapore 
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

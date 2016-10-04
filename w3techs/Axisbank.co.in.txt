@@ -1,0 +1,17 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Axisbank.co.in.
+Website Background
+Description on Homepage
+Popularity rank
+Mainvisitorslocations
+Website Quality Alerts
+Website inaccessible
+
+SSL Certificate Authority
+Verisign is an SSL certificate authority owned by Symantec.
+Verisign 
+Top Level Domain
+India
+.in 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

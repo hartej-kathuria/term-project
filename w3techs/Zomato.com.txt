@@ -1,0 +1,70 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Zomato.com.
+Website Background
+Description on Homepage
+Description from Alexa
+Popularity rank
+Mainvisitorslocations
+Server-side Programming Language
+PHP is a popular scripting language for creating web pages.
+PHP 
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Library
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery 1.8.3(used until recently)
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+GIF (Graphics Interchange Format) is a lossless compression image format, originally introduced by CompuServe and suitable to store graphics, logos and simple animations.
+GIF 
+Scalable Vector Graphics (SVG) is an XML-based vector image format.
+SVG 
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+HTTP Strict Transport Security (HSTS) defines a mechanism enabling web sites to declare themselves accessible only via secure connections.
+HTTP Strict Transport Security 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS (used until recently)
+SSL Certificate Authority
+GoDaddy is an IT service provider, amongst others operating as SSL certificate authority. This includes ValiCert certificates, now operated by Go Daddy.
+GoDaddy 
+JavaScript Content Delivery Network
+The CDNJS is a content distribution network, hosting a large number of JavaScript libraries, provided by CloudFlare.
+CDNJS 
+Traffic Analysis Tool
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics 
+Advertising Network
+The Google Advertising network consists of AdSense, DoubleClick and other services.
+Google Ads (used until recently)
+Tag Manager
+The Google Tag Manager is a Google service to support webmasters to manage tags on their websites.
+Google Tag Manager (used until recently)
+Web Hosting Provider
+Amazon is a US-based e-commerce and cloud computing provider.
+Amazon hosting info based on data from ipinfo.io
+Reverse Proxy Service
+Akamai is a content delivery network.
+Akamai 
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States Netherlands Singapore (used until recently)
+Content Languages
+English Spanish Portuguese Turkish Indonesian 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

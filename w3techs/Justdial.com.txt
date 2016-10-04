@@ -1,0 +1,63 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Justdial.com.
+Website Background
+Description on Homepage
+Online since
+Popularity rank
+Mainvisitorslocations
+Server-side Programming Language
+PHP is a popular scripting language for creating web pages.
+PHP 
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Formats
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG 
+PNG (Portable Network Graphics) is a lossless compression image format, suitable to store graphics with uniformly colored areas, and originally introduced as a free, open-source successor of GIF.
+PNG 
+Site Elements
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Session cookies are temporary cookies, which are deleted when the user closes the browser.
+Session Cookies 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS (used until recently)
+SSL Certificate Authority
+The SSL certificate is invalid because it is not issued for the domain where it is used.
+Invalid Domain 
+Traffic Analysis Tool
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics 
+Tag Manager
+The Google Tag Manager is a Google service to support webmasters to manage tags on their websites.
+Google Tag Manager 
+Web Hosting Provider
+GTT Communications, formerly Global Telecom & Technology, is a multinational telecommunications and internet provider company headquartered in USA. This includes nLayer and Tinet (Tiscali International Network), which were acquired by GTT.
+GTT (used until recently)hosting info based on data from ipinfo.io, see details
+Reverse Proxy Service
+Akamai is a content delivery network.
+Akamai 
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States Netherlands Austria France (used until recently)India (used until recently)
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

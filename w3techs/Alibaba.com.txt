@@ -1,0 +1,71 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Alibaba.com.
+Website Background
+Description on Homepage
+Description from Alexa
+Online since
+Popularity rank
+Mainvisitorslocations
+Server-side Programming Languages
+PHP is a popular scripting language for creating web pages.
+PHP 
+Java is a general-purpose language originally developed by Sun Microsystems.
+Java 
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Format
+JPEG (Joint Photographic Experts Group) is a lossy compression method suitable to store photographic images.
+JPEG (used until recently)
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Session cookies are temporary cookies, which are deleted when the user closes the browser.
+Session Cookies 
+Persistent cookies with an expiration time of more than 10 years.
+Cookies expiring in decades 
+HttpOnly cookies are used only in the HTTP protocol and not in client side scripts, which may increase security.
+HttpOnly Cookies 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+HTTP/2 is the second major version of the HTTP network protocol.
+HTTP/2 
+HTTP Strict Transport Security (HSTS) defines a mechanism enabling web sites to declare themselves accessible only via secure connections.
+HTTP Strict Transport Security 
+SSL Certificate Authority
+GlobalSign is an IT security service provider, also operating as SSL certificate authority.
+GlobalSign 
+Traffic Analysis Tool
+Google Analytics is a free service to get detailed statistics about the visitors of a website, provided by Google.
+Google Analytics 
+Web Servers
+Apache Tomcat is an open source Java servlet container that functions as a web server, developed by the Apache Software Foundation
+Tomcat 
+Tengine is an open source web server based on Nginx and originated by Taobao.
+Tengine (used until recently)
+Web Hosting Provider
+Alibaba a Chinese e-commerce company.
+Alibaba hosting info based on data from ipinfo.io
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States China 
+Content Languages
+English Russian Japanese German Spanish French Portuguese Italian Turkish Dutch, Flemish Korean Arabic Vietnamese Thai 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

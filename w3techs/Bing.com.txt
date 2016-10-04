@@ -1,0 +1,60 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Bing.com.
+Website Background
+Description on Homepage
+Online since
+Popularity rank
+Mainvisitorslocations
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+Markup Language
+Transitional version of XHTML.
+XHTML Transitional 1.0
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Site Elements
+Embedded Cascading Style Sheets define a set of style rules in a <style> element within a web page.
+Embedded CSS 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS 
+Session cookies are temporary cookies, which are deleted when the user closes the browser.
+Session Cookies 
+Persistent cookies with an expiration time between 1 and 10 years.
+Cookies expiring in years 
+HttpOnly cookies are used only in the HTTP protocol and not in client side scripts, which may increase security.
+HttpOnly Cookies 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+SSL Certificate Authority
+Verizon is an IT service provider, also operating as SSL certificate authority, primarily via its acquisition
+of Cybertrust.
+Verizon 
+Social Widgets
+A Twitter Button allows a Twitter user to post a tweet from the visited site.
+Twitter 
+Facebook Social Plugins provide a way for Facebook users to share web pages with their friends.
+Facebook (used until recently)
+Web Server
+The Internet Information Services (IIS) are a set of Internet-based services for Windows, developed by Microsoft.
+Microsoft-IIS 8.5(0% of sites use a newer version)
+Operating System
+Windows is a popular operating system produced by Microsoft.
+Windows 
+Web Hosting Provider
+Microsoft is a multinational technology company headquartered in USA.
+Microsoft hosting info based on data from ipinfo.io
+Top Level Domain
+Commercial entities
+.com 
+Server Locations
+United States China 
+Content Languages
+English Russian Japanese German Spanish French Portuguese Italian Chinese Polish Turkish Dutch, Flemish Korean Czech Swedish Greek Romanian Hungarian Danish Thai Slovak Finnish Bulgarian Lithuanian Croatian Ukrainian Norwegian Bokml Serbian Catalan, Valencian Slovenian Latvian Estonian Hindi Malay Icelandic Basque Galician 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.

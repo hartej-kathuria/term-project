@@ -1,0 +1,64 @@
+Featured products and servicesadvertise here
+Overview of web technologies used by Torrentz2.eu.
+Website Background
+Description on Homepage
+Popularity rank
+Mainvisitorslocations
+Server-side Programming Language
+PHP is a popular scripting language for creating web pages.
+PHP 5.6.26(version 5.6.24 used until recently)(2% of sites use a newer version)
+Client-side Programming Language
+JavaScript is a lightweight, object-oriented, cross-platform scripting language, mainly used within web pages.
+JavaScript 
+JavaScript Library
+JQuery is a JavaScript library that simplifies HTML document traversing, event handling, animating and Ajax interaction. Originally developed by John Resig.
+JQuery 1.11.2(38% of sites use a newer version)
+Markup Language
+HTML5 is the fifth revision of the HTML standard.
+HTML5 
+Character Encoding
+UTF-8 (8-bit Unicode Transformation Format) is a variable-length character encoding for Unicode, which is backwards compatible with ASCII.
+UTF-8 
+Image File Format
+GIF (Graphics Interchange Format) is a lossless compression image format, originally introduced by CompuServe and suitable to store graphics, logos and simple animations.
+GIF (used until recently)
+Site Elements
+External Cascading Style Sheets define style rules in a separate CSS file.
+External CSS 
+Persistent cookies with an expiration time between 1 month and 1 year.
+Cookies expiring in months 
+Non-HttpOnly cookies are used in the HTTP protocol and also in client side scripts, which may be a security threat.
+Non-HttpOnly Cookies 
+Non-secure cookies may be used via an unencrypted connections, which may be a security threat.
+Non-Secure Cookies 
+Gzip (GNU zip) is a file compression algorithm.
+Gzip Compression 
+The Internet Protocol version 6 (IPv6) provides amongst others a vastly larger address space than the preceding version 4. We consider a website to support IPv6 if a 128-bit address is assigned to it, regardless of the content delivered at that address.
+IPv6 
+SPDY (pronounced speedy) is a web protocol developed by Google, the basis for HTTP/2.
+SPDY 
+HTTP/2 is the second major version of the HTTP network protocol.
+HTTP/2 
+Inline Cascading Style Sheets define style rules directly within an (X)HTML element using the style attribute.
+Inline CSS (used until recently)
+SSL Certificate Authority
+Comodo provides IT services, software, and SSL certificates under various brand names.
+Comodo 
+JavaScript Content Delivery Network
+Google Hosted Libraries (formerly called Google Libraries API) is a content distribution network for the most popular, open-source JavaScript libraries, provided by Google.
+Google Hosted Libraries 
+Web Server
+Nginx (pronounced as "engine X") is a lightweight open source web server developed by Igor Sysoev.
+Nginx 
+Reverse Proxy Service
+CloudFlare provides a content delivery network.
+CloudFlare hosting info based on data from ipinfo.io, see details
+Top Level Domain
+European Union
+.eu 
+Server Location
+United States 
+Content Language
+English 
+TechnologyScore
+The technology score rates a site based on its technologies in a range from 0to100. It consists in a popularity score (how many sites use the same technologies), a traffic score (how much traffic have other sites using the same technologies) and a version score (how many sites use more recent technology versions). Quality alerts also affect the rating.
