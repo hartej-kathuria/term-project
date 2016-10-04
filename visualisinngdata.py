@@ -1,5 +1,8 @@
 from pymongo import MongoClient
 import pandas as pd
+from mpl_toolkits.mplot3d import Axes3D
+import matplotlib.pyplot as plt
+import numpy as np
 
 def stats(stat_technology,index_technology):
 	fieldname=["ServerSideLang","ClientSideLang","MarkUPLang","CharEncodingUsed","ImageFormat","SiteElements","WebServers","Operating System","Countries","Languages"]
@@ -15,7 +18,31 @@ def stats(stat_technology,index_technology):
 		v=v+1
 
 	df=pd.DataFrame(a,columns=stat_technology,index=labels)
+	#print(my_list)
 	print(df)
+	visual3d(stat_technology,df)
+
+def visual3d(y,df):
+	fig=plt.figure()
+	ax=fig.add_subplot(111,projection='3d')
+	i=0
+	zpos=np.zeros(16)
+	xpos=range(1,len(labels)+1)
+	for e in y:
+		ypos=np.zeros(16)+i
+		dz=df[y[i]].tolist()
+		dx=np.ones(16)/2
+		dy=np.ones(16)/2
+		print(dz)
+		ax.bar3d(xpos,ypos,zpos,dx,dy,dz,alpha=0.5)
+		i=i+1
+
+	ticksx = np.arange(1, 17, 1)
+	plt.xticks(ticksx,labels,rotation=90)
+
+	ticksy = np.arange(0.2, 3, 1)
+	plt.yticks(ticksy,y)
+	plt.show()
 
 if __name__=='__main__':
 	ServerSideLang_index0 = ["PHP","ASP.NET","Java","ColdFusion","Ruby","Perl","Python"]
@@ -29,5 +56,5 @@ if __name__=='__main__':
 	Countries_index8 = ["United States","Germany","Japan","Russian Federation","France","United Kingdom","Netherlands","China","Canada","Italy","Spain","Poland","Turkey","Republic of Korea (South Korea)","Brazil","Australia","India","Singapore","Czech Republic","Ireland","Ukraine","Iran","Switzerland","Viet Nam","Sweden","Denmark","Romania","South Africa","Thailand","Taiwan","Indonesia","Hungary","Austria","Bulgaria","Argentina","Finland","Estonia","Portugal","Belgium","Malaysia","Slovakia","Norway","Lithuania","Belarus","Israel","Greece","Kazakhstan","Chile","New Zealand","Latvia","Slovenia","Mexico","Croatia","Luxembourg","Cyprus","Costa Rica","Serbia"]
 	Languages_index9 = ["Hindi","Kannada","English","Russian","Japanese","German","Spanish","French","Portuguese","Italian","Chinese","Polish","Turkish","Persian","Dutch","Korean","Czech","Arabic","Vietnamese","Indonesian","Swedish","Greek","Romanian","Hungarian","Danish","Thai","Slovak","Finnish","Bulgarian","Hebrew","Norwegian","Lithuanian","Croatian","Ukrainian","Norwegian","Serbian","Valencian","Slovenian","Estonian","Latvian"]
 	labels=["Search Engine","News","Art","Social","E-Commerce","Banking","Computer","Government","Service Provider","Buissness","Adult","Job Search Engine","Ads","Education","Cloud Computing","Travel"]
-	stats(Languages_index9,9)
+	stats(ClientSideLang_index1,1)
 	
