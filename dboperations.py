@@ -6,6 +6,17 @@ from json import JSONEncoder
 
 
 class dboperations:
+	_javaLibraries = ["JQuery","Bootstrap","Modernizr","MooTools","ASP.NET Ajax","Prototype","Script.aculo.us","YUI Library","Shadowbox","Underscore","AngularJS","Spry","Backbone","GSAP","Dojo","Knockout","Ext JS"]
+	_serverLang = ["PHP","ASP.NET","Java","ColdFusion","Ruby","Perl","Python"]
+	_clientLang = ["JavaScript","Flash","Silverlight"]
+	_markupLang = ["HTML", "XHTML"]
+	_charEncode = ["UTF-8","ISO-8859-1","Windows-1251","Shift JIS","Windows-1252","GB2312","EUC-KR","EUC-JP","GBK","ISO-8859-2","Windows-1250","ISO-8859-15","Windows-1256","ISO-8859-9","Big5","Windows-1254","Windows-874"]
+	_imageFormats = ["PNG","JPEG","GIF","SVG","BMP","ICO"]
+	_siteElements = ["CSS","Compression","Cookies","ETag","HTTP/2","SPDY","IPv6","HTTP Strict Transport Security","Frameset"]
+	_webServers = ["Apache", "Nginx","Microsoft-IIS","LiteSpeed","Google Servers","Tomcat","IdeaWebServer","Apache Traffic Server","Node.js","Tengine","Cowboy","Lighttpd","Oracle Servers","IBM Servers"]
+	_os = ["Unix", "Windows"]
+	_countries = ["United States","Germany","Japan","Russian Federation","France","United Kingdom","Netherlands","China","Canada","Italy","Spain","Poland","Turkey","Republic of Korea (South Korea)","Brazil","Australia","India","Singapore","Czech Republic","Ireland","Ukraine","Iran","Switzerland","Viet Nam","Sweden","Denmark","Romania","South Africa","Thailand","Taiwan","Indonesia","Hungary","Austria","Bulgaria","Argentina","Finland","Estonia","Portugal","Belgium","Malaysia","Slovakia","Norway","Lithuania","Belarus","Israel","Greece","Kazakhstan","Chile","New Zealand","Latvia","Slovenia","Mexico","Croatia","Luxembourg","Cyprus","Costa Rica","Serbia"]
+	_languages = ["Hindi","Kannada","English","Russian","Japanese","German","Spanish","French","Portuguese","Italian","Chinese","Polish","Turkish","Persian","Dutch","Korean","Czech","Arabic","Vietnamese","Indonesian","Swedish","Greek","Romanian","Hungarian","Danish","Thai","Slovak","Finnish","Bulgarian","Hebrew","Norwegian","Lithuanian","Croatian","Ukrainian","Norwegian","Serbian","Valencian","Slovenian","Estonian","Latvian"]
 	
 	def __init__(self):
 		client=MongoClient()
@@ -27,33 +38,21 @@ class dboperations:
 					})
 				i=i+1
 
-		self._javaLibraries = ["JQuery","Bootstrap","Modernizr","MooTools","ASP.NET Ajax","Prototype","Script.aculo.us","YUI Library","Shadowbox","Underscore","AngularJS","Spry","Backbone","GSAP","Dojo","Knockout","Ext JS"]
-		self._serverLang = ["PHP","ASP.NET","Java","ColdFusion","Ruby","Perl","Python"]
-		self._clientLang = ["JavaScript","Flash","Silverlight"]
-		self._markupLang = ["HTML", "XHTML"]
-		self._charEncode = ["UTF-8","ISO-8859-1","Windows-1251","Shift JIS","Windows-1252","GB2312","EUC-KR","EUC-JP","GBK","ISO-8859-2","Windows-1250","ISO-8859-15","Windows-1256","ISO-8859-9","Big5","Windows-1254","Windows-874"]
-		self._imageFormats = ["PNG","JPEG","GIF","SVG","BMP","ICO"]
-		self._siteElements = ["CSS","Compression","Cookies","ETag","HTTP/2","SPDY","IPv6","HTTP Strict Transport Security","Frameset"]
-		self._webServers = ["Apache", "Nginx","Microsoft-IIS","LiteSpeed","Google Servers","Tomcat","IdeaWebServer","Apache Traffic Server","Node.js","Tengine","Cowboy","Lighttpd","Oracle Servers","IBM Servers"]
-		self._os = ["Unix", "Windows"]
-		self._countries = ["United States","Germany","Japan","Russian Federation","France","United Kingdom","Netherlands","China","Canada","Italy","Spain","Poland","Turkey","Republic of Korea (South Korea)","Brazil","Australia","India","Singapore","Czech Republic","Ireland","Ukraine","Iran","Switzerland","Viet Nam","Sweden","Denmark","Romania","South Africa","Thailand","Taiwan","Indonesia","Hungary","Austria","Bulgaria","Argentina","Finland","Estonia","Portugal","Belgium","Malaysia","Slovakia","Norway","Lithuania","Belarus","Israel","Greece","Kazakhstan","Chile","New Zealand","Latvia","Slovenia","Mexico","Croatia","Luxembourg","Cyprus","Costa Rica","Serbia"]
-		self._languages = ["Hindi","Kannada","English","Russian","Japanese","German","Spanish","French","Portuguese","Italian","Chinese","Polish","Turkish","Persian","Dutch","Korean","Czech","Arabic","Vietnamese","Indonesian","Swedish","Greek","Romanian","Hungarian","Danish","Thai","Slovak","Finnish","Bulgarian","Hebrew","Norwegian","Lithuanian","Croatian","Ukrainian","Norwegian","Serbian","Valencian","Slovenian","Estonian","Latvian"]
-		self._obtainedJavaLibraries = []
-		self._obtainedServerLang = []
-		self._obtainedClientLang = []
-		self._obtainedmarkUpLang = []
-		self._obtainedCharEncode = []
-		self._obtainedImageFormat = []
-		self._obtainedSiteElements = []
-		self._obtainedWebServers = []
-		self._obtainedOS = []
-		self._obtainedcountries = []
-		self._obtainedlanguages = []
-
 		FILE_PATH = "/home/hartej/term-project/w3techs"
 		os.chdir(FILE_PATH)
 
 		for fileName in glob.glob("*"):
+			self._obtainedJavaLibraries = []
+			self._obtainedServerLang = []
+			self._obtainedClientLang = []
+			self._obtainedmarkUpLang = []
+			self._obtainedCharEncode = []
+			self._obtainedImageFormat = []
+			self._obtainedSiteElements = []
+			self._obtainedWebServers = []
+			self._obtainedOS = []
+			self._obtainedcountries = []
+			self._obtainedlanguages = []
 			file = open(fileName).read()
 			self.checkLanguages(file)
 			self.checkCountries(file)
@@ -66,7 +65,6 @@ class dboperations:
 			self.checkClientLang(file)
 			self.checkServerLang(file)
 			self.checkMarkupLang(file)
-
 			"""get filename (Actually get the website name)"""
 			base=os.path.basename(fileName)
 			websitename = os.path.splitext(base)[0]
@@ -160,7 +158,6 @@ class dboperations:
 								"Countries" : self._obtainedcountries,
 								"Languages" : self._obtainedlanguages
 							}})
-
 
 if __name__=='__main__':
 	c=dboperations()
