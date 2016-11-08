@@ -12,6 +12,7 @@ def stats(stat_technology,index_technology):
 	db=client.webdd
 	a=[[0 for x in range(len(stat_technology))]for x in range(len(labels))]
 	v=0
+	b=db.Web_details.find({"SiteELements":"HTTP/2"}).count()
 	for j in labels:
 		y=0
 		for i in stat_technology:
@@ -23,6 +24,7 @@ def stats(stat_technology,index_technology):
 	df.to_csv('MarkUpLang.csv')
 	#print(my_list)
 	print(df)
+	print("No of websites using HTTP/2= ",b)
 	#visual3d(stat_technology,df)
 	barstacked(stat_technology,a)
 
@@ -74,6 +76,7 @@ def barchart():
 	#plt.savefig('Website_category_barchart.png')
 
 def barstacked(tech,a):
+	bars=[]
 	labels=catlabels()
 	labels_num=range(0,len(labels))
 	tech_num=range(0,len(tech))
@@ -81,10 +84,19 @@ def barstacked(tech,a):
 	c=['r','b','g','y','c','m','k','w','r']
 	for i in labels_num:
 		for j in tech_num:
-			plt.bar(i,a[i][j],color=c[j],bottom=a[i][j-1])
-			#plt.text(i,j+0.7,str(a[i][j]), color='black', fontweight='bold')
-
-	plt.xticks(labels_num,labels,rotation=90)
+			bars.append(plt.bar(i,a[i][j],color=c[j],bottom=a[i][j-1],label=tech[j]))
+	handles, labels = plt.gca().get_legend_handles_labels()
+	handle_list, label_list = [], []
+	for handle, label in zip(handles, labels):
+	    if label not in label_list:
+	        handle_list.append(handle)
+	        label_list.append(label)
+	plt.legend(handle_list, label_list)
+	#plt.gca().add_artist(plt.legend(bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.))
+	ticksx = np.arange(0.5, 20, 1)
+	plt.xticks(ticksx,labels,rotation=90)
+	plt.ylabel('Count')
+	plt.xlabel('Categories')
 	plt.show()
 
 def visual3d(y,df):
@@ -121,6 +133,6 @@ if __name__=='__main__':
 	Countries_index8 = ["United States","Germany","Japan","Russian Federation","France","United Kingdom","Netherlands","China","Canada","Italy","Spain","Poland","Turkey","Republic of Korea (South Korea)","Brazil","Australia","India","Singapore","Czech Republic","Ireland","Ukraine","Iran","Switzerland","Viet Nam","Sweden","Denmark","Romania","South Africa","Thailand","Taiwan","Indonesia","Hungary","Austria","Bulgaria","Argentina","Finland","Estonia","Portugal","Belgium","Malaysia","Slovakia","Norway","Lithuania","Belarus","Israel","Greece","Kazakhstan","Chile","New Zealand","Latvia","Slovenia","Mexico","Croatia","Luxembourg","Cyprus","Costa Rica","Serbia"]
 	Languages_index9 = ["Hindi","Kannada","English","Russian","Japanese","German","Spanish","French","Portuguese","Italian","Chinese","Polish","Turkish","Persian","Dutch","Korean","Czech","Arabic","Vietnamese","Indonesian","Swedish","Greek","Romanian","Hungarian","Danish","Thai","Slovak","Finnish","Bulgarian","Hebrew","Norwegian","Lithuanian","Croatian","Ukrainian","Norwegian","Serbian","Valencian","Slovenian","Estonian","Latvian"]
 	JavaLibraries_index10 = ["JQuery","Bootstrap","Modernizr","MooTools","ASP.NET Ajax","Prototype","Script.aculo.us","YUI Library","Shadowbox","Underscore","AngularJS","Spry","Backbone","GSAP","Dojo","Knockout","Ext JS"]
-	#stats(ServerSideLang_index0,0,labels)
-	barchart()
+	stats(ClientSideLang_index1,1)
+	#barchart()
 	
